@@ -1,44 +1,65 @@
 [
   {
-    "id": "at-the-side-of-an-rpg-village-121718",
-    "name": "At the Side of an RPG Village",
-    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/at-the-side-of-an-rpg-village-121718.mp3",
-    "licence": "None",
-    "category": "Background Music"
-  },
-  {
-    "id": "click-47609",
-    "name": "Click Sound",
-    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/click-47609.mp3",
-    "licence": "None",
-    "category": "Sound Effect"
-  },
-  {
-    "id": "level-passed-142971",
-    "name": "Level Passed",
-    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/level-passed-142971.mp3",
-    "licence": "None",
-    "category": "Sound Effect"
-  },
-  {
-    "id": "never-again-108445",
-    "name": "Never Again",
-    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/never-again-108445.mp3",
+    "id": "at-the-side-of-an-rpg-village",
+    "name": "RPG Village Ambience",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/at-the-side-of-an-rpg-village.mp3",
     "licence": "None",
     "category": "Music"
   },
   {
-    "id": "quothello-therequot-158832",
-    "name": "Hello There",
-    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/quothello-therequot-158832.mp3",
+    "id": "click-sound",
+    "name": "Button Click",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/click-sound.mp3",
+    "licence": "None",
+    "category": "SoundEffect"
+  },
+  {
+    "id": "late-hours",
+    "name": "Late Hours Mood",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/late-hours.mp3",
+    "licence": "None",
+    "category": "Music"
+  },
+  {
+    "id": "level-passed",
+    "name": "Level Passed Notification",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/level-passed.mp3",
+    "licence": "None",
+    "category": "SoundEffect"
+  },
+  {
+    "id": "little-slime-adventure",
+    "name": "Little Slime's Adventure",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/little-slime-adventure.mp3",
+    "licence": "None",
+    "category": "Music"
+  },
+  {
+    "id": "never-again",
+    "name": "Never Again Dramatic Effect",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/never-again.mp3",
+    "licence": "None",
+    "category": "Music"
+  },
+  {
+    "id": "hello-there",
+    "name": "Hello There Greeting",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/hello-there.mp3",
     "licence": "None",
     "category": "Dialogue"
   },
   {
-    "id": "teleport-90137",
-    "name": "Teleport Sound",
-    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/teleport-90137.mp3",
+    "id": "rpg-city",
+    "name": "RPG City Ambience",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/rpg-city.mp3",
     "licence": "None",
-    "category": "Sound Effect"
+    "category": "Music"
+  },
+  {
+    "id": "teleport-sound",
+    "name": "Teleport Effect",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/teleport-sound.mp3",
+    "licence": "None",
+    "category": "SoundEffect"
   }
 ]
