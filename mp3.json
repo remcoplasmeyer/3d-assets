@@ -1,0 +1,44 @@
+[
+  {
+    "id": "at-the-side-of-an-rpg-village-121718",
+    "name": "At the Side of an RPG Village",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/at-the-side-of-an-rpg-village-121718.mp3",
+    "licence": "None",
+    "category": "Background Music"
+  },
+  {
+    "id": "click-47609",
+    "name": "Click Sound",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/click-47609.mp3",
+    "licence": "None",
+    "category": "Sound Effect"
+  },
+  {
+    "id": "level-passed-142971",
+    "name": "Level Passed",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/level-passed-142971.mp3",
+    "licence": "None",
+    "category": "Sound Effect"
+  },
+  {
+    "id": "never-again-108445",
+    "name": "Never Again",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/never-again-108445.mp3",
+    "licence": "None",
+    "category": "Music"
+  },
+  {
+    "id": "quothello-therequot-158832",
+    "name": "Hello There",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/quothello-therequot-158832.mp3",
+    "licence": "None",
+    "category": "Dialogue"
+  },
+  {
+    "id": "teleport-90137",
+    "name": "Teleport Sound",
+    "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/teleport-90137.mp3",
+    "licence": "None",
+    "category": "Sound Effect"
+  }
+]
